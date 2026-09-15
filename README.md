@@ -2,7 +2,7 @@
 # 📊 Sales & Data Intelligence Dashboard – Excel Project
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Sales+%26+Data+Analytics+Dashboard;Excel+Data+Analysis+Project;Pivot+Tables+%7C+Formulas+%7C+Visualizations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Sales+%26+Data+Intelligence+Dashboard;Excel+Data+Analysis+Project;Pivot+Tables+%7C+Formulas+%7C+Visualizations" alt="Typing SVG" />
 </p>
 
 <p align="center">
