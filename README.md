@@ -1340,5 +1340,3 @@ The project demonstrates how Microsoft Excel can be used to analyze sales perfor
 # 👨‍💻 Author
 
 **Sarth Thakar**
-```
-```
