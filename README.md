@@ -25,6 +25,21 @@ The workbook provides a complete workflow from raw transaction data to business 
 
 ---
 
+# 🎥 Project Demo Video
+
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1eFEwhleQNkB3KKU5zwIM09yj6985K6IX/view" target="_blank">
+
+<img src="https://img.shields.io/badge/▶️%20Watch%20Project%20Demo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+
+</a>
+
+</p>
+
+> 📺 Click the button above to watch the complete project demonstration and SQL explanation video.
+---
+
 ## 🎯 Objectives
 
 The main objectives of this project are:
